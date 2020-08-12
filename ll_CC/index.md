@@ -1,5 +1,6 @@
-# It works! ;-)
+# Pevnina
 
+A wiki about the RPG world of Pevnina.
 
 ## Section 1
 
