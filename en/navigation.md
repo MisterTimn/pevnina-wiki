@@ -18,14 +18,18 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
+[The Beastie Boys]
+  [Remus Nutsworth](pages/players/remus.md)
+  [Kalazmir](pages/players/kalazmir.md)
+  [Timon Diamondback](pages/players/timon.md)
+  [Wheezy Wondragoth](pages/players/wheezy.md)
+  [Draewnin Saa'ga](pages/players/draewnin.md)
 
-[About](pages/about.md)
-[Download](pages/download.md)
-[gimmick:themechooser](Choose theme)
+
 
 <!-- A more complex navigation example: ----------------------------------------
 
-[Menu Item 1]()
+[Players]()
 
   * # SubMenu Heading 1
   * [SubMenu Item 1](pages/subitem1.md)
@@ -64,3 +68,4 @@
 <!--
 [gimmick:themechooser](Choose theme)
 -->
+[gimmick:themechooser](Choose theme)
